@@ -3,6 +3,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>br.ufmg.dcc.nanocomp</groupId>
 	<artifactId>peg</artifactId>
+	<version>0.10.0</version>
 	<packaging>jar</packaging>
 	<build>
 		<sourceDirectory>src/main/java</sourceDirectory>
@@ -37,5 +38,4 @@
 			<scope>test</scope>
 		</dependency>
 	</dependencies>
-	<version>0.10.0</version>
 </project>
