@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>br.ufmg.dcc.nanocomp</groupId>
+  <artifactId>peg</artifactId>
+  <versioning>
+    <release>0.10.0</release>
+    <versions>
+      <version>0.10.0</version>
+    </versions>
+    <lastUpdated>20170221131526</lastUpdated>
+  </versioning>
+</metadata>
